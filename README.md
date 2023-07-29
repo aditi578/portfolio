@@ -1,76 +1,56 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Personal Portfolio - Aditi
 
-<br/>
+![Portfolio Screenshot](screenshot.png)
 
-<center>
+## Introduction
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+Hello, I am Aditi, a passionate and aspiring web developer. This is my personal portfolio website showcasing my projects, skills, and experiences. I am a recent graduate eager to start my journey in the web development industry. This portfolio is a reflection of my dedication and enthusiasm towards building innovative web applications using React and other modern technologies.
 
-</center>
+## Technologies Used
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
+- HTML5
 - CSS3
-- VsCode
-- Vercel
+- JavaScript
+- React
 
 ## Features
 
-**📖 Multi-Page Layout**
+1. **Project Showcase:** Display a collection of my web development projects with brief descriptions and live links to the deployed applications or GitHub repositories.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+2. **About Me:** Share a little background about myself, my interests, and what motivates me to pursue a career in web development.
 
-**📱 Fully Responsive**
+3. **Skills:** Highlight the programming languages, frameworks, and tools I am proficient in.
 
-## Getting Started
+4. **Experience:** Mention any internships, freelance work, or personal projects that contribute to my experience as a web developer.
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+5. **Contact:** Provide a way for visitors to reach out to me via email or a contact form.
 
-## 🛠 Installation and Setup Instructions
+## How to Use
 
-1. Installation: `npm install`
+1. Clone the repository using `git clone`.
+2. Navigate to the project directory and run `npm install` to install the dependencies.
+3. Use `npm start` to run the development server and view the portfolio in your browser.
+4. Customize the content in the portfolio as per your personal details, projects, and skills.
 
-2. In the project directory, you can run: `npm start`
+## Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+[Visit the live portfolio](https://www.yourportfolio.com)
 
-## Usage Instructions
+## Project Screenshots
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+![Project 1](project1.png)
+![Project 2](project2.png)
 
-### Show your support
+## Contact
 
-Give a ⭐ if you like this website!
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername/)
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Feel free to explore my portfolio and get in touch with me if you have any questions or would like to collaborate on a project. I am looking forward to connecting with fellow developers and potential employers!
+
+Thank you for visiting! 😊
+
+---
+
+This is just a basic template for your React-based personal portfolio as a fresher. Feel free to add more sections or customize the content to best represent your skills and achievements. Good luck with your portfolio, and I hope it helps you showcase your talent to the world!
