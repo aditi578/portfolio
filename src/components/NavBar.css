@@ -1,0 +1,32 @@
+/* NavBar.css */
+
+.dark-mode-toggle{
+    font-size: 1.2rem; /* Increase the font size */
+    padding: 8px 16px; /* Add padding to increase button size */
+    border-radius: 4px; /* Add border-radius for a rounded button appearance */
+    color: #333; /* Default color */
+    transition: color 0.9s ease;
+  }
+  
+  .dark-mode-toggle-btn.dark-mode {
+    color: #ffffff; /* Color in dark mode */
+  }
+  
+  .dark-mode-toggle-btn:hover {
+    text-decoration: underline;
+  }
+  
+  .dark-mode-toggle-btn:focus {
+    outline: none;
+  }
+  
+  .dark-mode-toggle-btn .icon {
+    vertical-align: middle;
+    margin-right: 5px;
+    transition: transform 0.3s ease;
+  }
+  
+  .dark-mode-toggle-btn.dark-mode .icon {
+    transform: rotate(180deg); /* Rotate the icon in dark mode */
+  }
+  
